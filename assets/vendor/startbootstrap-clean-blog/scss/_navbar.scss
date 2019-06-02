@@ -73,7 +73,7 @@
         color: $white;
         &:focus,
         &:hover {
-          color: $white;
+          color: $primary;
         }
       }
       .navbar-nav {
@@ -82,7 +82,7 @@
             color: $white;
             &:focus,
             &:hover {
-              color: $white;
+              color: $primary;
             }
           }
         }
