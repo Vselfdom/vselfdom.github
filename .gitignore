@@ -3,3 +3,8 @@ _site
 node_modules
 Gemfile.lock
 *.gem
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.avi
